@@ -1,2 +1,2 @@
-# google-search-project-
-Google Search Project As A Requirement For Code Academy Application -  GSG .
+Google Search Page <br />
+Created As An Acceptance Requirement For GSG Code Academy Application .
